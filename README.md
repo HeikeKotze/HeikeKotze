@@ -1,5 +1,11 @@
 Hi there 👋
 
+![image](https://user-images.githubusercontent.com/80961978/220690222-8015c9cf-4776-4602-991d-08bad21c7334.png)
+
+
+
+
+
 - 🔭 I’m currently working on broadening my skills using several different frameworks. 
 - 🌱 I’m currently learning Vue.js, Node.js, Typescript, CSS, html, C# Rest API development.
 - 🎆 I am proficient at C++, Python, Qt Framework
