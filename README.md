@@ -7,7 +7,7 @@ Hi there 👋
 
 
 - 🔭 I’m currently working on broadening my skills using several different frameworks. 
-- 🌱 I’m currently learning Vue.js, Node.js, Typescript, CSS, html, C# Rest API development.
+- 🌱 I’m currently learning Vue.js, React, Node.js, Azure, Typescript, CSS, html, C# Rest API development.
 - 🎆 I am proficient at C++, Python, Qt Framework
 - 👯 I’m looking to collaborate on any projects.
 - 📫 How to reach me: via email
