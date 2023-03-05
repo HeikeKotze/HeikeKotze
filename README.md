@@ -1,6 +1,7 @@
 Hi there 👋
 
-![image](https://user-images.githubusercontent.com/80961978/220690222-8015c9cf-4776-4602-991d-08bad21c7334.png)
+
+![rvndev-high-resolution-logo-color-on-transparent-background](https://user-images.githubusercontent.com/80961978/222975206-473e8122-432c-4db1-9630-17d604430a3b.png)
 
 
 
